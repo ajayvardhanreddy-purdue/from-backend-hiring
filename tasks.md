@@ -1,4 +1,21 @@
-You are required to build the url - get-recommendations which will return the recommendations for the user.
-You are required to build the filters on top of the following fields:
+You are required to build the urls -
+- get-recommendations
+- login
+- signup
+- logout
+
+
+You are required to build the filters on top of the following fields for the get-recommendations url:
 - Gender
 - Age
+- Location
+- Interests
+- Occupation
+- Education
+- Income
+- Marital Status
+- Religion
+
+You are supposed to implement JWT based authentication for the api.
+
+Additional bonus task - Create a cachning layer on top of the recommendations if the filters are not changed.
