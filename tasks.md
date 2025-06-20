@@ -19,5 +19,3 @@ You are required to build the filters on top of the following fields for the get
 Store user preferences in the database.
 
 You are supposed to implement JWT based authentication for the api.
-
-Additional bonus task - Create a cachning layer on top of the recommendations if the filters are not changed.
